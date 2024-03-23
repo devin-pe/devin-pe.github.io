@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Devin, a researcher affiliated with Queen's University, Kingston. I'm currently a machine learning researcher for L1NNA Lab.
+Hi! I’m Devin, a machine learning researcher affiliated with L1NNA Lab @ Queen's University, Kingston.
 
 Research
 ======
