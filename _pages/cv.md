@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 <!---* M.S. in Jekyll, GitHub University, 2014 --->
-* B.S. in Computing, Queen's University, 2023
+* M.S. in Machine Learning, University of Amsterdam, 2024-Present
+* B.S. in Computing, Queen's University, 2019-2023
 
 Work experience
 ======
